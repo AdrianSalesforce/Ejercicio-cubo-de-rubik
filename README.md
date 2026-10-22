@@ -7,7 +7,7 @@ Prototipo didáctico en Python para resolver un cubo de Rubik 2×2×2 mediante b
 
 He anadido un tutorial.pdf donde se explica en mayor detalle el funcionamiento del mismo, pero que es para yo poder enterarme bien de como funciona correctamente
 
-## Pocket Cube IDA_.ppt y Guion Presentacion Pocket Cube Adrian Herrera Fernandez.pdf
+## Pocket Cube IDA_.pptx y Guion Presentacion Pocket Cube Adrian Herrera Fernandez.pdf
 
 Pequeña presentación para la clase del 22/10/26
 
